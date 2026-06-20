@@ -8,7 +8,7 @@ This AI enables you to choose an artistic style, and generate unique AI artwork 
 
 ## Depolyed link 
 
-**Deployed App:** [Add Streamlit URL Here]
+**Deployed App:** https://clarity-jpg-ai.streamlit.app/
 
 ---
 
@@ -172,6 +172,10 @@ produces much stronger results.
 
 ##  Screenshot
 
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/d671ab95-06f0-48d5-a14a-1d7188965165" />
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/4a17915d-6264-41fa-9dd6-0e7e1ad08b24" />
+<img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/ff44fe12-5490-4736-b2b5-61ce53026b03" />
+<img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/29c342ff-aef7-4fa2-80d6-c8ce03ba3228" />
 
 ---
 
